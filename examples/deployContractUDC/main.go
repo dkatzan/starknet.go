@@ -10,11 +10,11 @@ import (
 	"time"
 
 	"github.com/NethermindEth/juno/core/felt"
-	"github.com/NethermindEth/starknet.go/account"
-	"github.com/NethermindEth/starknet.go/rpc"
-	"github.com/NethermindEth/starknet.go/utils"
+	"github.com/dkatzan/starknet.go/account"
+	"github.com/dkatzan/starknet.go/rpc"
+	"github.com/dkatzan/starknet.go/utils"
 
-	setup "github.com/NethermindEth/starknet.go/examples/internal"
+	setup "github.com/dkatzan/starknet.go/examples/internal"
 )
 
 // More info: https://docs.starknet.io/architecture-and-concepts/accounts/universal-deployer/

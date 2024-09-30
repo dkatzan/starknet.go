@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/NethermindEth/starknet.go/utils"
+	"github.com/dkatzan/starknet.go/utils"
 	"github.com/stretchr/testify/require"
 )
 

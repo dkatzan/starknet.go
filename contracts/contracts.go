@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/NethermindEth/juno/core/felt"
-	"github.com/NethermindEth/starknet.go/curve"
+	"github.com/dkatzan/starknet.go/curve"
 )
 
 var PREFIX_CONTRACT_ADDRESS = new(felt.Felt).SetBytes([]byte("STARKNET_CONTRACT_ADDRESS"))

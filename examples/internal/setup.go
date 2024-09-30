@@ -8,7 +8,7 @@ import (
 	"strconv"
 
 	"github.com/NethermindEth/juno/core/felt"
-	"github.com/NethermindEth/starknet.go/rpc"
+	"github.com/dkatzan/starknet.go/rpc"
 	"github.com/joho/godotenv"
 )
 

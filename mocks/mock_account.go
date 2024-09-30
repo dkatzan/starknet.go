@@ -15,7 +15,7 @@ import (
 	time "time"
 
 	felt "github.com/NethermindEth/juno/core/felt"
-	rpc "github.com/NethermindEth/starknet.go/rpc"
+	rpc "github.com/dkatzan/starknet.go/rpc"
 	gomock "go.uber.org/mock/gomock"
 )
 

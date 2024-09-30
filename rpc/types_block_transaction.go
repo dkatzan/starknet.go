@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	"github.com/NethermindEth/juno/core/felt"
-	"github.com/NethermindEth/starknet.go/utils"
+	"github.com/dkatzan/starknet.go/utils"
 )
 
 type BlockTransactions []IBlockTransaction
